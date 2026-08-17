@@ -91,6 +91,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-python-with-pytest",
+      "title": "Testing Python with pytest",
+      "description": "Write unit tests, diagnose failures, and repair bugs with pytest.",
+      "path": "assignments/testing-python-with-pytest",
+      "dueDate": "2026-08-24",
+      "attachments": [
+        {
+          "name": "Buggy Gradebook",
+          "file": "gradebook.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter",
+          "file": "test_gradebook.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
