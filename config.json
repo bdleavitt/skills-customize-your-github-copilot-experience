@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a validated CRUD API for managing books with FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-08-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "eeg-balloon-brainflow",
+      "title": "EEG Balloon with BrainFlow",
+      "description": "Read EEG wave patterns with BrainFlow and animate a balloon that rises or lowers.",
+      "path": "assignments/eeg-balloon-brainflow",
+      "dueDate": "2026-08-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
