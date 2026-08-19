@@ -115,6 +115,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "javascript-error-handling",
+      "title": "JavaScript Error Handling",
+      "description": "Learn to validate input, handle exceptions, and write safer JavaScript programs.",
+      "path": "assignments/javascript-error-handling",
+      "dueDate": "2026-08-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
